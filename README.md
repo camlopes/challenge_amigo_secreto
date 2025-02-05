@@ -1,6 +1,6 @@
 <h1>Challenge amigo secreto</h1>
 
-<h2>Descrição do projeto</h2>
+<h2> 📌 Descrição do projeto</h2>
 
 <p>Desafio realizado durante o programa de educação e empregabilidade <b>ONE - Oracle Next Education.</b> </p>
 
@@ -16,3 +16,7 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 - `Validar entrada`: Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
 - `Visualizar a lista`: Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
 - `Sorteio aleatório`: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
+
+<h2> 📁 Acesso ao projeto </h2>
+
+<p> </p>
