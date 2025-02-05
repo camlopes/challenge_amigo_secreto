@@ -19,4 +19,4 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 
 <h2> 📁 Acesso ao projeto </h2>
 
-<p> </p>
+[Desafio amigo secreto](https://camlopes.github.io/challenge_amigo_secreto/)
