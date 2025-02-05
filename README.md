@@ -17,6 +17,8 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 - `Visualizar a lista`: Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
 - `Sorteio aleatório`: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
+https://github.com/user-attachments/assets/4ba6ef55-113c-4326-8c62-77dcb3f991a7
+
 <h2> 📁 Acesso ao projeto </h2>
 
 [Desafio amigo secreto](https://camlopes.github.io/challenge_amigo_secreto/)
